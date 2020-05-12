@@ -81,7 +81,7 @@
   float: right;
   bottom: 750px;
   right : 115px;
-  position : fixed;
+  position : absolute;
 }
 
 /* bouton mon compte*/
@@ -89,5 +89,5 @@
   
   bottom: 750px;
   right : 1px;
-  position : fixed;
+  position : absolute;
 }
