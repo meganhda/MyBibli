@@ -1,0 +1,18 @@
+/* permet de placer au milieu le formulaire */
+.containerAchat{
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  /* largeur du block du formulaire */
+.colAchat{
+  width: 500px;
+}
+
+/* message d'erreur */
+.error {
+  color: rgba(150, 0, 0);
+  margin-top: 20px;
+}

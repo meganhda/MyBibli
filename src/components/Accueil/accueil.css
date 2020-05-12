@@ -1,0 +1,93 @@
+/*Menu vertical*/
+.sidenav {
+  height: 100%; 
+  width: 270px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: rgb(83, 4, 4);
+  overflow-x: hidden; 
+  padding-top: 20px;
+  border-right: white;
+}
+
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  display: block;
+  height: 175px;
+  text-align: center;
+  font-family: 'Times New Roman';
+}
+
+
+.sidenav a:hover {
+  color: grey;
+}
+
+
+/*Titre MyBibli*/
+.myBibliBis{
+  color: rgb(83, 4, 4);
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Times New Roman';
+  margin: 80px;
+  margin-left: 100px;
+  padding-top: 70px;
+  padding-left: 1p;
+  }
+
+/*Barre de recherche*/
+.searchPosition{
+  margin-left: 140px;
+}
+
+/*Boutons filtres*/
+.liFilter{
+  display: inline;
+  font-size: 30px;
+  font-family: 'Times New Roman'
+}
+
+.ulFilter{
+  margin-left: 140px;
+}
+  
+.active-pink-4 input[type="text"]:focus:not([readonly]) {
+  border: 1px solid grey;
+  box-shadow: 0 0 0 1px grey;
+}
+.active-pink-3 input[type="text"] {
+  border: 1px solid grey;
+  box-shadow: 0 0 0 1px grey;
+}
+
+/*Résultats de la recherche*/
+.resultsSearch{
+  margin-left: 200px;
+  font-family: 'Times New Roman';
+  font-size: 25px;
+  list-style-type: square;
+
+}
+
+/* bouton contact*/
+.drop {
+  float: right;
+  bottom: 750px;
+  right : 115px;
+  position : fixed;
+}
+
+/* bouton mon compte*/
+.dropdownn {
+  
+  bottom: 750px;
+  right : 1px;
+  position : fixed;
+}

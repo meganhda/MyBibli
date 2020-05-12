@@ -1,0 +1,26 @@
+/*Bouton nouvel achat*/
+.buttonAchat{
+    position: absolute;
+    bottom: 100px;
+    right: 120px;
+}
+
+/*Texte dans le cas ou il n'y a pas de prochain achat a afficher*/
+.noPurchase{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: oblique 90deg;
+
+}
+
+/*Titre de la page mes prochains achats*/
+.titleMyPurchases{
+    color: rgb(83, 4, 4);
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin: 80px;
+
+}
+

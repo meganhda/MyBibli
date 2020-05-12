@@ -1,0 +1,14 @@
+/*Titre mon compte*/
+.titleMyAccount{
+    color: rgb(83, 4, 4);
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin: 80px;
+
+}
+
+/*champs a modifier*/
+.inputModif{
+    border-radius: 5px;
+}

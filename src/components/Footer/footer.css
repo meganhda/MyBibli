@@ -1,0 +1,15 @@
+.titleFooter{
+ 
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color:  rgb(83, 4, 4);
+}
+
+.footer{
+    opacity: 90%;
+    background-attachment: fixed;
+    width: 90vw;
+    height: 5px;
+    padding: 4px;
+}
+
